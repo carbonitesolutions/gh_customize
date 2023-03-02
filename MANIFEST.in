@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gh_customize *.css
+recursive-include gh_customize *.csv
+recursive-include gh_customize *.html
+recursive-include gh_customize *.ico
+recursive-include gh_customize *.js
+recursive-include gh_customize *.json
+recursive-include gh_customize *.md
+recursive-include gh_customize *.png
+recursive-include gh_customize *.py
+recursive-include gh_customize *.svg
+recursive-include gh_customize *.txt
+recursive-exclude gh_customize *.pyc
