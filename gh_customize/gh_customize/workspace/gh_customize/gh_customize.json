@@ -1,0 +1,55 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"ay1C9rZHsk\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">GH Customize</span>\",\"col\":12}},{\"id\":\"QWK86OmWF5\",\"type\":\"card\",\"data\":{\"card_name\":\"Accounting\",\"col\":4}}]",
+ "creation": "2023-03-03 07:52:50.098691",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "list-alt",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "GH Customize",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Accounting",
+   "link_count": 2,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "VAT Report",
+   "link_count": 0,
+   "link_to": "VAT Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Levies Report",
+   "link_count": 0,
+   "link_to": "Levies Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2023-03-03 09:56:36.067763",
+ "modified_by": "Administrator",
+ "module": "Gh Customize",
+ "name": "GH Customize",
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 3.0,
+ "shortcuts": [],
+ "title": "GH Customize"
+}
