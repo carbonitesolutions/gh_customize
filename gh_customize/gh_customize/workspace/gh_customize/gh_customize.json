@@ -1,6 +1,6 @@
 {
  "charts": [],
- "content": "[{\"id\":\"ay1C9rZHsk\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">GH Customize</span>\",\"col\":12}},{\"id\":\"QWK86OmWF5\",\"type\":\"card\",\"data\":{\"card_name\":\"Accounting\",\"col\":4}}]",
+ "content": "[{\"id\":\"ay1C9rZHsk\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">GH Customize</span>\",\"col\":12}},{\"id\":\"QWK86OmWF5\",\"type\":\"card\",\"data\":{\"card_name\":\"Accounting\",\"col\":4}},{\"id\":\"uLdzrvq4tl\",\"type\":\"card\",\"data\":{\"card_name\":\"Payroll\",\"col\":4}}]",
  "creation": "2023-03-03 07:52:50.098691",
  "docstatus": 0,
  "doctype": "Workspace",
@@ -38,9 +38,47 @@
    "link_type": "Report",
    "onboard": 0,
    "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Payroll",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "SSNIT Tier 1",
+   "link_count": 0,
+   "link_to": "SSNIT Tier 1",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "SSNIT Tier 2",
+   "link_count": 0,
+   "link_to": "SSNIT Tier 2",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Bank Advice",
+   "link_count": 0,
+   "link_to": "Bank Advice",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
   }
  ],
- "modified": "2023-03-03 09:56:36.067763",
+ "modified": "2023-03-09 17:29:05.256432",
  "modified_by": "Administrator",
  "module": "Gh Customize",
  "name": "GH Customize",
