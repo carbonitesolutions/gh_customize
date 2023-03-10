@@ -12,7 +12,7 @@
 
 <div><strong>The Manager</strong></div>
 <div><strong>Dear Sir,</strong></div>
-<div>Sub:- Salary Transfer for the month of {{ frappe.utils.formatdate(filters.from_date, "MMMM yyyy") }}</div>
+<div>Sub :- Salary Transfer for the month of {%= frappe.datetime.str_to_user(filters.from_date) %}</div>
 <div>Ref:- Our current Account No:</div>
 </br>
 <div>Please Make the payroll transfer from above account number to the below mentioned account numbers towards employees.</div>
